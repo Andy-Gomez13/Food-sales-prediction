@@ -10,9 +10,7 @@ Below are a couple of the graphs I used to help display the data along with a sh
 
 #
 #
-#
-#
-#
+
 
 ![image](https://user-images.githubusercontent.com/85202194/126027521-7c3498b3-4e85-4b56-94ee-ceb639ed84c4.png)
 
